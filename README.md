@@ -70,7 +70,7 @@ This project serves as a comprehensive example of embedded systems integration, 
 ## 📁 Project Structure
 
 ```
-SD_CARD-BITDOGLAB-master/
+DATALOGGERFINAL/
 ├── sd_card.c              # Main application firmware
 ├── hw_config.c            # Hardware configuration for SD driver
 ├── CMakeLists.txt         # Build configuration
@@ -104,7 +104,7 @@ SD_CARD-BITDOGLAB-master/
 1. **Clone the Repository**
    ```bash
    git clone <repository-url>
-   cd SD_CARD-BITDOGLAB-master
+   cd DATALOGGERFINAL
    ```
 
 2. **Prepare SD Card**
